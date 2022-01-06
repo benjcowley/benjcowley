@@ -5,5 +5,5 @@
 - 📫 My emails are always open: benjaminjamescowley@gmail.com
 
 ## Currently Working on
-- 🐜 Ant Colony Optimization Implimentations.
+- 🦠 Crunching a few covid numbers for a twitter bot.
 - 🌿 Probabilistic Machine Learning model for foraging food in the UK.
